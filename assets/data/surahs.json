@@ -1,0 +1,686 @@
+[
+    {
+      "verse_count": 7,
+      "name": "Al-Fatihah",
+      "id": 1,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 2,
+      "name": "Al-Baqarah",
+      "type": "Madaniyah",
+      "verse_count": 286
+    },
+    {
+      "id": 3,
+      "verse_count": 200,
+      "name": "Ali 'Imran",
+      "type": "Madaniyah"
+    },
+    {
+      "type": "Madaniyah",
+      "id": 4,
+      "name": "An-Nisa'",
+      "verse_count": 176
+    },
+    {
+      "verse_count": 120,
+      "type": "Madaniyah",
+      "name": "Al-Ma'idah",
+      "id": 5
+    },
+    {
+      "verse_count": 165,
+      "type": "Makkiyah",
+      "name": "Al-An'am",
+      "id": 6
+    },
+    {
+      "verse_count": 206,
+      "id": 7,
+      "name": "Al-A'raf",
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 75,
+      "type": "Madaniyah",
+      "name": "Al-Anfal",
+      "id": 8
+    },
+    {
+      "type": "Madaniyah",
+      "verse_count": 129,
+      "name": "At-Taubah",
+      "id": 9
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Yunus",
+      "verse_count": 109,
+      "id": 10
+    },
+    {
+      "verse_count": 123,
+      "name": "Hud",
+      "type": "Makkiyah",
+      "id": 11
+    },
+    {
+      "name": "Yusuf",
+      "id": 12,
+      "verse_count": 111,
+      "type": "Makkiyah"
+    },
+    {
+      "type": "Madaniyah",
+      "id": 13,
+      "name": "Ar-Ra'd",
+      "verse_count": 43
+    },
+    {
+      "id": 14,
+      "type": "Makkiyah",
+      "verse_count": 52,
+      "name": "Ibrahim"
+    },
+    {
+      "verse_count": 99,
+      "name": "Al-Hijr",
+      "id": 15,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 16,
+      "name": "An-Nahl",
+      "verse_count": 128,
+      "type": "Makkiyah"
+    },
+    {
+      "type": "Makkiyah",
+      "id": 17,
+      "name": "Al-Isra'",
+      "verse_count": 111
+    },
+    {
+      "id": 18,
+      "type": "Makkiyah",
+      "verse_count": 110,
+      "name": "Al-Kahf"
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 98,
+      "name": "Maryam",
+      "id": 19
+    },
+    {
+      "type": "Makkiyah",
+      "id": 20,
+      "verse_count": 135,
+      "name": "Thaha"
+    },
+    {
+      "verse_count": 112,
+      "name": "Al-Anbiya'",
+      "id": 21,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 22,
+      "type": "Madaniyah",
+      "name": "Al-Hajj",
+      "verse_count": 78
+    },
+    {
+      "id": 23,
+      "verse_count": 118,
+      "name": "Al-Mu'minun",
+      "type": "Makkiyah"
+    },
+    {
+      "id": 24,
+      "verse_count": 64,
+      "type": "Madaniyah",
+      "name": "An-Nur"
+    },
+    {
+      "verse_count": 77,
+      "type": "Makkiyah",
+      "id": 25,
+      "name": "Al-Furqan"
+    },
+    {
+      "name": "Asy-Syu'ara'",
+      "verse_count": 227,
+      "type": "Makkiyah",
+      "id": 26
+    },
+    {
+      "name": "An-Naml",
+      "verse_count": 93,
+      "id": 27,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 88,
+      "name": "Al-Qashash",
+      "id": 28,
+      "type": "Makkiyah"
+    },
+    {
+      "name": "Al-'Ankabut",
+      "verse_count": 69,
+      "type": "Makkiyah",
+      "id": 29
+    },
+    {
+      "type": "Makkiyah",
+      "id": 30,
+      "name": "Ar-Rum",
+      "verse_count": 60
+    },
+    {
+      "verse_count": 34,
+      "id": 31,
+      "name": "Luqman",
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 30,
+      "type": "Makkiyah",
+      "id": 32,
+      "name": "As-Sajdah"
+    },
+    {
+      "verse_count": 73,
+      "type": "Madaniyah",
+      "id": 33,
+      "name": "Al-Ahzab"
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 54,
+      "name": "Saba'",
+      "id": 34
+    },
+    {
+      "id": 35,
+      "name": "Fathir",
+      "verse_count": 45,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 83,
+      "id": 36,
+      "type": "Makkiyah",
+      "name": "Yasin"
+    },
+    {
+      "id": 37,
+      "verse_count": 182,
+      "name": "Ash-Shaffat",
+      "type": "Makkiyah"
+    },
+    {
+      "name": "Shad",
+      "verse_count": 88,
+      "type": "Makkiyah",
+      "id": 38
+    },
+    {
+      "name": "Az-Zumar",
+      "type": "Makkiyah",
+      "id": 39,
+      "verse_count": 75
+    },
+    {
+      "id": 40,
+      "verse_count": 85,
+      "type": "Makkiyah",
+      "name": "Ghafir"
+    },
+    {
+      "name": "Fushshilat",
+      "id": 41,
+      "verse_count": 54,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 42,
+      "type": "Makkiyah",
+      "name": "Asy-Syura",
+      "verse_count": 53
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 89,
+      "id": 43,
+      "name": "Az-Zukhruf"
+    },
+    {
+      "name": "Ad-Dukhan",
+      "type": "Makkiyah",
+      "id": 44,
+      "verse_count": 59
+    },
+    {
+      "verse_count": 37,
+      "id": 45,
+      "name": "Al-Jatsiyah",
+      "type": "Makkiyah"
+    },
+    {
+      "name": "Al-Ahqaf",
+      "type": "Makkiyah",
+      "verse_count": 35,
+      "id": 46
+    },
+    {
+      "name": "Muhammad",
+      "verse_count": 38,
+      "type": "Madaniyah",
+      "id": 47
+    },
+    {
+      "verse_count": 29,
+      "id": 48,
+      "name": "Al-Fath",
+      "type": "Madaniyah"
+    },
+    {
+      "name": "Al-Hujurat",
+      "type": "Madaniyah",
+      "verse_count": 18,
+      "id": 49
+    },
+    {
+      "name": "Qaf",
+      "type": "Makkiyah",
+      "verse_count": 45,
+      "id": 50
+    },
+    {
+      "name": "Adz-Dzariyat",
+      "verse_count": 60,
+      "id": 51,
+      "type": "Makkiyah"
+    },
+    {
+      "type": "Makkiyah",
+      "name": "At-Thur",
+      "verse_count": 49,
+      "id": 52
+    },
+    {
+      "verse_count": 62,
+      "type": "Makkiyah",
+      "id": 53,
+      "name": "An-Najm"
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 55,
+      "name": "Al-Qamar",
+      "id": 54
+    },
+    {
+      "verse_count": 78,
+      "name": "Ar-Rahman",
+      "id": 55,
+      "type": "Madaniyah"
+    },
+    {
+      "id": 56,
+      "name": "Al-Waqi'ah",
+      "verse_count": 96,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 57,
+      "type": "Madaniyah",
+      "verse_count": 29,
+      "name": "Al-Hadid"
+    },
+    {
+      "id": 58,
+      "verse_count": 22,
+      "name": "Al-Mujadalah",
+      "type": "Madaniyah"
+    },
+    {
+      "id": 59,
+      "type": "Madaniyah",
+      "name": "Al-Hasyr",
+      "verse_count": 24
+    },
+    {
+      "verse_count": 13,
+      "name": "Al-Mumtahanah",
+      "id": 60,
+      "type": "Madaniyah"
+    },
+    {
+      "id": 61,
+      "name": "Ash-Shaff",
+      "type": "Madaniyah",
+      "verse_count": 14
+    },
+    {
+      "name": "Al-Jumu'ah",
+      "id": 62,
+      "type": "Madaniyah",
+      "verse_count": 11
+    },
+    {
+      "name": "Al-Munafiqun",
+      "verse_count": 11,
+      "id": 63,
+      "type": "Madaniyah"
+    },
+    {
+      "type": "Madaniyah",
+      "id": 64,
+      "verse_count": 18,
+      "name": "At-Taghabun"
+    },
+    {
+      "id": 65,
+      "verse_count": 12,
+      "type": "Madaniyah",
+      "name": "At-Thalaq"
+    },
+    {
+      "id": 66,
+      "type": "Madaniyah",
+      "name": "At-Tahrim",
+      "verse_count": 12
+    },
+    {
+      "id": 67,
+      "type": "Makkiyah",
+      "verse_count": 30,
+      "name": "Al-Mulk"
+    },
+    {
+      "id": 68,
+      "name": "Al-Qalam",
+      "verse_count": 52,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 69,
+      "name": "Al-Haqqah",
+      "type": "Makkiyah",
+      "verse_count": 52
+    },
+    {
+      "verse_count": 44,
+      "id": 70,
+      "name": "Al-Ma'arij",
+      "type": "Makkiyah"
+    },
+    {
+      "name": "Nuh",
+      "type": "Makkiyah",
+      "verse_count": 28,
+      "id": 71
+    },
+    {
+      "id": 72,
+      "name": "Al-Jinn",
+      "verse_count": 28,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 20,
+      "type": "Makkiyah",
+      "name": "Al-Muzzammil",
+      "id": 73
+    },
+    {
+      "name": "Al-Muddatstsir",
+      "type": "Makkiyah",
+      "id": 74,
+      "verse_count": 56
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 40,
+      "id": 75,
+      "name": "Al-Qiyamah"
+    },
+    {
+      "verse_count": 31,
+      "id": 76,
+      "name": "Al-Insan",
+      "type": "Madaniyah"
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Al-Mursalat",
+      "verse_count": 50,
+      "id": 77
+    },
+    {
+      "name": "An-Naba'",
+      "type": "Makkiyah",
+      "verse_count": 40,
+      "id": 78
+    },
+    {
+      "id": 79,
+      "verse_count": 46,
+      "name": "An-Nazi'at",
+      "type": "Makkiyah"
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 42,
+      "name": "'Abasa",
+      "id": 80
+    },
+    {
+      "id": 81,
+      "type": "Makkiyah",
+      "verse_count": 29,
+      "name": "At-Takwir"
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Al-Infithar",
+      "verse_count": 19,
+      "id": 82
+    },
+    {
+      "id": 83,
+      "type": "Makkiyah",
+      "name": "Al-Muthaffifin",
+      "verse_count": 36
+    },
+    {
+      "id": 84,
+      "type": "Makkiyah",
+      "name": "Al-Insyiqaq",
+      "verse_count": 25
+    },
+    {
+      "name": "Al-Buruj",
+      "verse_count": 22,
+      "id": 85,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 86,
+      "verse_count": 17,
+      "type": "Makkiyah",
+      "name": "At-Thariq"
+    },
+    {
+      "name": "Al-A'la",
+      "verse_count": 19,
+      "id": 87,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 26,
+      "id": 88,
+      "type": "Makkiyah",
+      "name": "Al-Ghasyiyah"
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Al-Fajr",
+      "id": 89,
+      "verse_count": 30
+    },
+    {
+      "name": "Al-Balad",
+      "id": 90,
+      "verse_count": 20,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 15,
+      "type": "Makkiyah",
+      "name": "Asy-Syams",
+      "id": 91
+    },
+    {
+      "verse_count": 21,
+      "type": "Makkiyah",
+      "name": "Al-Lail",
+      "id": 92
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Adh-Dhuha",
+      "id": 93,
+      "verse_count": 11
+    },
+    {
+      "name": "Al-Insyirah",
+      "verse_count": 8,
+      "id": 94,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 95,
+      "type": "Makkiyah",
+      "name": "At-Tin",
+      "verse_count": 8
+    },
+    {
+      "id": 96,
+      "verse_count": 19,
+      "type": "Makkiyah",
+      "name": "Al-'Alaq"
+    },
+    {
+      "name": "Al-Qadr",
+      "verse_count": 5,
+      "type": "Makkiyah",
+      "id": 97
+    },
+    {
+      "verse_count": 8,
+      "type": "Madaniyah",
+      "id": 98,
+      "name": "Al-Bayyinah"
+    },
+    {
+      "name": "Az-Zalzalah",
+      "verse_count": 8,
+      "type": "Madaniyah",
+      "id": 99
+    },
+    {
+      "type": "Makkiyah",
+      "name": "Al-'Adiyat",
+      "id": 100,
+      "verse_count": 11
+    },
+    {
+      "verse_count": 11,
+      "type": "Makkiyah",
+      "id": 101,
+      "name": "Al-Qari'ah"
+    },
+    {
+      "name": "At-Takatsur",
+      "id": 102,
+      "type": "Makkiyah",
+      "verse_count": 8
+    },
+    {
+      "verse_count": 3,
+      "name": "Al-'Ashr",
+      "id": 103,
+      "type": "Makkiyah"
+    },
+    {
+      "id": 104,
+      "type": "Makkiyah",
+      "verse_count": 9,
+      "name": "Al-Humazah"
+    },
+    {
+      "id": 105,
+      "type": "Makkiyah",
+      "name": "Al-Fil",
+      "verse_count": 5
+    },
+    {
+      "id": 106,
+      "name": "Quraisy",
+      "type": "Makkiyah",
+      "verse_count": 4
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 7,
+      "id": 107,
+      "name": "Al-Ma'un"
+    },
+    {
+      "verse_count": 3,
+      "name": "Al-Kautsar",
+      "id": 108,
+      "type": "Makkiyah"
+    },
+    {
+      "verse_count": 6,
+      "id": 109,
+      "name": "Al-Kafirun",
+      "type": "Makkiyah"
+    },
+    {
+      "type": "Madaniyah",
+      "name": "An-Nashr",
+      "id": 110,
+      "verse_count": 3
+    },
+    {
+      "id": 111,
+      "verse_count": 5,
+      "name": "Al-Lahab",
+      "type": "Makkiyah"
+    },
+    {
+      "id": 112,
+      "type": "Makkiyah",
+      "verse_count": 4,
+      "name": "Al-Ikhlash"
+    },
+    {
+      "type": "Makkiyah",
+      "verse_count": 5,
+      "name": "Al-Falaq",
+      "id": 113
+    },
+    {
+      "verse_count": 6,
+      "id": 114,
+      "name": "An-Nas",
+      "type": "Makkiyah"
+    }
+  ]
