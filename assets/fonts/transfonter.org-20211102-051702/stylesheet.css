@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LPMQ Isep Misbah';
+    src: url('LPMQIsepMisbah.woff2') format('woff2'),
+        url('LPMQIsepMisbah.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
