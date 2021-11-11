@@ -12,4 +12,4 @@ Download file atau pakai git, lalu upload ke server anda. Itu saja.
 - Bootstrap (https://getbootstrap.com/)
 
 # TRAKTEER
-https://trakteer.id/3vluzi
+https://trakteer.id/3vluzi/showcase
